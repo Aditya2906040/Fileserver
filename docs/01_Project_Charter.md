@@ -1,7 +1,7 @@
 # Fileserver — Project Charter
 
 **Version:** 1.0
-**Status:** Approved
+**Status:** Approved.
 **Last Updated:** July 1, 2026
 
 ---
